@@ -1,0 +1,29 @@
+📘 How to Use / Cómo usar el programa
+🇬🇧 English:
+Run the program.
+
+Choose the algorithm to apply.
+
+Select the graph file to load (e.g., grafo.txt).
+
+The program will display the adjacency list with edge weights.
+
+Enter the start node (and end node if required).
+
+The program will show the resulting path or visited nodes and the total cost.
+
+🇪🇸 Español:
+Ejecuta el programa.
+
+Elige el algoritmo que deseas aplicar.
+
+Selecciona el archivo del grafo a cargar (ejemplo: grafo.txt).
+
+El programa mostrará la lista de adyacencias con sus respectivos pesos.
+
+Ingresa el nodo inicial (y el final si es necesario).
+
+El resultado mostrará la secuencia de nodos y el costo total.
+
+🔖 Puedes cerrar con algo como:
+#lewennpy – Graph Algorithms Tool
