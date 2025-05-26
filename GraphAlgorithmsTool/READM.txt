@@ -25,5 +25,4 @@ Ingresa el nodo inicial (y el final si es necesario).
 
 El resultado mostrará la secuencia de nodos y el costo total.
 
-🔖 Puedes cerrar con algo como:
 #lewennpy – Graph Algorithms Tool
